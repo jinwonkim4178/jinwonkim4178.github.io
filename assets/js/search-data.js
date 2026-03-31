@@ -462,7 +462,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/Jinwon-Kim_CV.pdf", "_blank");
+          window.open("/assets/pdf/Jinwon-Kim-CV.pdf", "_blank");
         },
       },{
         id: 'social-email',
