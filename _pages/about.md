@@ -26,3 +26,5 @@ latest_posts:
 I am a PhD student in the School of Education at University of California, Irvine. I am working with [Di Xu](https://faculty.uci.edu/profile/?facultyId=6178) in the [Higher Education Research Analysis Lab (HERA Lab)](https://www.highereducationlab.com/) and [Renzhe Yu](https://renzheyu.com/) in the [AEQUITAS Lab](https://aequitas-lab.tc.columbia.edu/).
 
 My research areas are learning analytics, educational data mining, and AI in Education. My research examines instructional design and student engagement in postsecondary education. Through data-driven approaches, I aim to improve instructional design and student engagement to promote equitable academic outcomes.
+
+Prior to UCI, I received his B.A. in Psychology and M.A. in Clinical Psychology from Korea University. Additionally, I have work experience as a data scientist, working on projects that aim to promote college students’ academic engagement and well-being through learning analytics and AI algorithms.
