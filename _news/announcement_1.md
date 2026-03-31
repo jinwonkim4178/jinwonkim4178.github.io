@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-11-22 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper Not ALL Delay is Procrastination: Analyzing subpatterns of Academic Delayers in Online Learning has been accepted to the 15th International Conference on Learning Analytics and Knowledge (LAK25).
