@@ -391,16 +391,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-announcement-2",
+            },},{id: "news-our-paper-not-all-delay-is-procrastination-analyzing-subpatterns-of-academic-delayers-in-online-learning-has-been-accepted-to-the-15th-international-conference-on-learning-analytics-and-knowledge-lak25",
+          title: 'Our paper Not ALL Delay is Procrastination: Analyzing subpatterns of Academic Delayers in...',
+          description: "",
+          section: "News",},{id: "news-announcement-2",
           title: 'Announcement_2',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-our-paper-not-all-delay-is-procrastination-analyzing-subpatterns-of-academic-delayers-in-online-learning-has-been-accepted-to-the-15th-international-conference-on-learning-analytics-and-knowledge-lak25",
-          title: 'Our paper Not ALL Delay is Procrastination: Analyzing subpatterns of Academic Delayers in...',
+            },},{id: "news-our-working-paper-is-out-toward-more-equitable-learning-environments-insights-from-digital-trace-data-on-inclusive-instructional-design-features",
+          title: 'Our working paper is out - Toward More Equitable Learning Environments: Insights from...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
