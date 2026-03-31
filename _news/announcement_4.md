@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-11-22 15:59:00-0400
+date: 2025-12-08 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our paper [Not ALL Delay is Procrastination: Analyzing subpatterns of Academic Delayers in Online Learning](https://dl.acm.org/doi/full/10.1145/3706468.3706562) has been accepted to the 15th International Conference on Learning Analytics and Knowledge (LAK25)! 🎉
+Our paper "TimeWise: Integrating Cognitive Behavioral Therapy and Self-Regulated Learning Approaches in an LLM-based Time Management Coaching System to Support College Students in Online Learning" has been accepted to Society for Information Technology & Teacher Education (SITE 2026)! 🎉
