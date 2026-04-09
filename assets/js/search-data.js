@@ -401,7 +401,7 @@ ninja.data = [{
           title: 'Our working paper is out - Toward More Equitable Learning Environments: Insights from...',
           description: "",
           section: "News",},{id: "news-our-paper-timewise-integrating-cognitive-behavioral-therapy-and-self-regulated-learning-approaches-in-an-llm-based-time-management-coaching-system-to-support-college-students-in-online-learning-has-been-accepted-to-society-for-information-technology-amp-amp-teacher-education-site-2026",
-          title: 'Our paper “TimeWise: Integrating Cognitive Behavioral Therapy and Self-Regulated Learning Approaches in an...',
+          title: 'Our paper TimeWise: Integrating Cognitive Behavioral Therapy and Self-Regulated Learning Approaches in an...',
           description: "",
           section: "News",},{id: "news-our-two-papers-have-been-accepted-to-the-stanford-education-data-science-conference-and-invited-to-submit-to-aera-open-toward-more-equitable-learning-environments-insights-from-digital-trace-data-on-inclusive-course-design-features-how-have-instructors-adapted-to-generative-ai-evidence-from-90-000-assignments-in-postsecondary-courses",
           title: 'Our two papers have been accepted to the Stanford Education Data Science Conference...',
