@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "TimeWise: Integrating Cognitive Behavioral Therapy and Self-Regulated Learning Approaches in an LLM-based Time Management Coaching System to Support College Students in Online Learning" has been accepted to Society for Information Technology & Teacher Education (SITE 2026)! 🎉
+Our paper [TimeWise: Integrating Cognitive Behavioral Therapy and Self-Regulated Learning Approaches in an LLM-based Time Management Coaching System to Support College Students in Online Learning](https://www.learntechlib.org/primary/p/2129476/) has been accepted to Society for Information Technology & Teacher Education (SITE 2026)! 🎉
