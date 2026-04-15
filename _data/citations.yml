@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-15'
 papers:
   -zv3MhAAAAAJ:2osOgNQ5qMEC:
     citations: 19
@@ -33,6 +33,10 @@ papers:
     citations: 9
     title: Early prediction model of student performance based on deep neural network using massive LMS log data
     year: '2021'
+  -zv3MhAAAAAJ:hqOjcs7Dif8C:
+    citations: 0
+    title: "TimeWise: Integrating Cognitive Behavioral Therapy and Self-Regulated Learning Approaches in an LLM-based Time Management Coaching System to Support College Students in Online \u2026"
+    year: '2026'
   -zv3MhAAAAAJ:qjMakFHDy7sC:
     citations: 0
     title: 'The relationship between mental representations of self and social evaluation: Examining the validity and usefulness of visual proxies of self-image'
