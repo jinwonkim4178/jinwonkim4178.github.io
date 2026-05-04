@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-15'
+  last_updated: '2026-05-04'
 papers:
   -zv3MhAAAAAJ:2osOgNQ5qMEC:
-    citations: 19
+    citations: 20
     title: 'Online learning performance and engagement during the COVID-19 pandemic: Application of the dual-continua model of mental health'
     year: '2022'
   -zv3MhAAAAAJ:9yKSN-GCB0IC:
-    citations: 28
+    citations: 27
     title: Development and validation of COVID-19 Impact Scale
     year: '2022'
   -zv3MhAAAAAJ:IjCSPb-OGe4C:
@@ -22,7 +22,7 @@ papers:
     title: "AI \uAE30\uBC18 \uB9DE\uCDA4\uD615 \uB17C\uBB38 \uCD94\uCC9C \uC2DC\uC2A4\uD15C \uAC1C\uBC1C \uBC0F \uC801\uC6A9 \uC0AC\uB840 \uC5F0\uAD6C: K \uB300\uD559\uC744 \uC911\uC2EC\uC73C\uB85C"
     year: '2023'
   -zv3MhAAAAAJ:W7OEmFMy1HYC:
-    citations: 4
+    citations: 5
     title: 'Not all delay is procrastination: analyzing subpatterns of academic delayers in online learning'
     year: '2025'
   -zv3MhAAAAAJ:Y0pCki6q_DkC:
@@ -30,7 +30,7 @@ papers:
     title: Device and Method for AI-Powered Research-Paper Recommendation
     year: '2024'
   -zv3MhAAAAAJ:d1gkVwhDpl0C:
-    citations: 9
+    citations: 10
     title: Early prediction model of student performance based on deep neural network using massive LMS log data
     year: '2021'
   -zv3MhAAAAAJ:hqOjcs7Dif8C:
