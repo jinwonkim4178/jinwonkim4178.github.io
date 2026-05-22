@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-05-22'
 papers:
   -zv3MhAAAAAJ:2osOgNQ5qMEC:
     citations: 20
@@ -38,7 +38,7 @@ papers:
     title: "TimeWise: Integrating Cognitive Behavioral Therapy and Self-Regulated Learning Approaches in an LLM-based Time Management Coaching System to Support College Students in Online \u2026"
     year: '2026'
   -zv3MhAAAAAJ:qjMakFHDy7sC:
-    citations: 0
+    citations: 1
     title: 'The relationship between mental representations of self and social evaluation: Examining the validity and usefulness of visual proxies of self-image'
     year: '2023'
   -zv3MhAAAAAJ:u-x6o8ySG0sC:
