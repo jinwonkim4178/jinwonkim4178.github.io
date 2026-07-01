@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-01'
 papers:
+  -zv3MhAAAAAJ:0EnyYjriUFMC:
+    citations: 0
+    title: Student, Course Design, or Context? Studying the Determinants of Academic Procrastination at Scale
+    year: '2026'
   -zv3MhAAAAAJ:2osOgNQ5qMEC:
     citations: 21
     title: 'Online learning performance and engagement during the COVID-19 pandemic: Application of the dual-continua model of mental health'
@@ -38,7 +42,7 @@ papers:
     title: "TimeWise: Integrating Cognitive Behavioral Therapy and Self-Regulated Learning Approaches in an LLM-based Time Management Coaching System to Support College Students in Online \u2026"
     year: '2026'
   -zv3MhAAAAAJ:qjMakFHDy7sC:
-    citations: 1
+    citations: 2
     title: 'The relationship between mental representations of self and social evaluation: Examining the validity and usefulness of visual proxies of self-image'
     year: '2023'
   -zv3MhAAAAAJ:u-x6o8ySG0sC:
@@ -46,7 +50,7 @@ papers:
     title: The relationship between borderline personality features and affective responses to altering emotional context
     year: '2022'
   -zv3MhAAAAAJ:u5HHmVD_uO8C:
-    citations: 36
+    citations: 37
     title: 'The mirror of mind: Visualizing mental representations of self through reverse correlation'
     year: '2020'
   -zv3MhAAAAAJ:zYLM7Y9cAGgC:
