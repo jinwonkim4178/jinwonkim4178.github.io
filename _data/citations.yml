@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-12'
 papers:
   -zv3MhAAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -34,7 +34,7 @@ papers:
     title: Device and Method for AI-Powered Research-Paper Recommendation
     year: '2024'
   -zv3MhAAAAAJ:d1gkVwhDpl0C:
-    citations: 9
+    citations: 10
     title: Early prediction model of student performance based on deep neural network using massive LMS log data
     year: '2021'
   -zv3MhAAAAAJ:hqOjcs7Dif8C:
@@ -54,6 +54,6 @@ papers:
     title: 'The mirror of mind: Visualizing mental representations of self through reverse correlation'
     year: '2020'
   -zv3MhAAAAAJ:zYLM7Y9cAGgC:
-    citations: 2
+    citations: 3
     title: 'Development and Application of an AI-Based Personalized Research-Paper Recommendation System: An Example from K University'
     year: '2023'
